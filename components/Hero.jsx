@@ -3,9 +3,9 @@ import React from 'react'
 const Hero = () => {
   return (
     <div>
-    <div className=' px-'>
+    <div className=''>
         
-    <div className='grid lg:grid-cols-2 grid-cols-1 px-10 lg:px-24 bg-my_bg_image bg-cover '>
+    <div className='grid lg:grid-cols-2 grid-cols-1 px-3 md:px-10 lg:px-24 bg-my_bg_image bg-cover '>
       <div className='col-span-1  '>
       <h1 className=' font-extrabold font-alien lg:text-5xl pt-20 text-[20px] lg:text-[40px] '>Elevate your <br className='hidden md:block'/> business  to new <br className='hidden md:flex'/>heights with web 3<br className='hidden md:flex' /> marketing experts
       </h1>
