@@ -54,7 +54,7 @@ const Services2 = () => {
                 </div>
                 </div>
               
-                </div> className="w-[1em] object-contain"
+                </div> 
 
 
 
