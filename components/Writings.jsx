@@ -22,7 +22,7 @@ const Writings = () => {
             <p className='mt-2 font-bold text-[12px]'>UX preview Presentation</p>
             <p className='mt-3 font-semibold text-[9px]'>How do you create compelling presentations that wow your...</p>
             
-            <div className='grid grid-cols-2 mt-5'>
+            <div className='grid grid-cols-1 lg:grid-cols-2 mt-5'>
             <div className='col-span-1 grid grid-cols-12 py-3'>
             <div className='col-span-4'><Image src={avatar}/></div>
             <div className='col-span-8 text-[7px] align-center p-2'>
@@ -43,7 +43,7 @@ const Writings = () => {
             <p className='mt-2 font-bold text-[12px]'>UX preview Presentation</p>
             <p className='mt-3 font-semibold text-[9px]'>How do you create compelling presentations that wow your...</p>
             
-            <div className='grid grid-cols-2 mt-5'>
+            <div className='grid grid-cols-1 lg:grid-cols-2 mt-5'>
             <div className='col-span-1 grid grid-cols-12 py-3'>
             <div className='col-span-4'><Image src={avatar}/></div>
             <div className='col-span-8 text-[7px] align-center p-2'>
@@ -71,7 +71,7 @@ const Writings = () => {
             <p className='mt-2 font-bold text-[12px]'>UX preview Presentation</p>
             <p className='mt-3 font-semibold text-[9px]'>How do you create compelling presentations that wow your...</p>
             
-            <div className='grid grid-cols-2 mt-5'>
+            <div className='grid grid-cols-1 lg:grid-cols-2 mt-5'>
             <div className='col-span-1 grid grid-cols-12 py-3'>
             <div className='col-span-4'><Image src={avatar}/></div>
             <div className='col-span-8 text-[7px] align-center p-2'>
@@ -92,7 +92,7 @@ const Writings = () => {
             <p className='mt-2 font-bold text-[12px]'>UX preview Presentation</p>
             <p className='mt-3 font-semibold text-[9px]'>How do you create compelling presentations that wow your...</p>
             
-            <div className='grid grid-cols-2 mt-5'>
+            <div className='grid grid-cols-1 lg:grid-cols-2 mt-5'>
             <div className='col-span-1 grid grid-cols-12 py-3'>
             <div className='col-span-4'><Image src={avatar}/></div>
             <div className='col-span-8 text-[7px] align-center p-2'>
