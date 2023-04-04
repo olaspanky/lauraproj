@@ -22,11 +22,11 @@ const Pricing = () => {
                 </div>
                 <div className='flex justify-center align-center '>
                 <ul className='list-disk'>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Access to all basic features</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Basic reporting and analytics</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Up to 10 individual users</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>20GB individual data each user</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Basic chat and email support</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Access to all basic features</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Basic reporting and analytics</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Up to 10 individual users</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>20GB individual data each user</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Basic chat and email support</li>
                 </ul>
                 </div>
                 <div className='flex justify-center align-center p-10'><button className='px-14 py-1 bg-green-400 p-10 rounded-sm'>Get Started</button></div>
@@ -43,11 +43,11 @@ const Pricing = () => {
                 </div>
                 <div className='flex justify-center align-center '>
                 <ul className='list-disk'>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Access to all basic features</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Basic reporting and analytics</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Up to 10 individual users</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>20GB individual data each user</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Basic chat and email support</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Access to all basic features</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Basic reporting and analytics</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Up to 10 individual users</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>20GB individual data each user</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Basic chat and email support</li>
                 </ul>
                 </div>
                 <div className='flex justify-center align-center p-10'><button className='px-14 py-1 bg-green-400 p-10 rounded-sm'>Get Started</button></div>
@@ -64,11 +64,11 @@ const Pricing = () => {
                 </div>
                 <div className='flex justify-center align-center '>
                 <ul className='list-disk'>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Access to all basic features</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Basic reporting and analytics</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Up to 10 individual users</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>20GB individual data each user</li>
-                <li className='pt-4 flex gap-3 text-[9px] lg:text-[12px]'> <Image src={check}/>Basic chat and email support</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Access to all basic features</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Basic reporting and analytics</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Up to 10 individual users</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>20GB individual data each user</li>
+                <li className='pt-4 flex gap-3 text-[10px] lg:text-[14px]'> <Image src={check} className="w-[1em] object-contain"/>Basic chat and email support</li>
                 </ul>
                 </div>
                 <div className='flex justify-center align-center p-10'><button className='px-14 py-1 bg-green-400 p-10 rounded-sm'>Get Started</button></div>
