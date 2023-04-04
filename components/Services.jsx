@@ -20,7 +20,7 @@ const Services = () => {
                     <div className='col-span-1 flex justify-center align-center '>
                     <div>
                     <div className='flex justify-center align-center rounded-full '><Image src={icon1}/></div>
-                    <div className='text-center px-2 lg:px-20'>
+                    <div className='text-center px-5 pt-5 lg:px-20'>
                     <h1 className='text-md'>High Value Users</h1>
                     <p className='text-sm'>Dedicated to helping industry-leading companies acquire high-value users at profitable prices</p>
                     </div>
@@ -29,7 +29,7 @@ const Services = () => {
                     <div className='col-span-1 flex justify-center align-center '>
                     <div>
                     <div className='flex justify-center align-center rounded-full '><Image src={icon1}/></div>
-                    <div className='text-center px-2 lg:px-20'>
+                    <div className='text-center px-5 pt-5 lg:px-20'>
                     <h1 className='text-md'>Real-time Market Analytics</h1>
                     <p className='text-sm'>An all-in-one platform that uses real-time market performance analytics to build tailored marketing strategies.</p>
                     </div>
@@ -38,7 +38,7 @@ const Services = () => {
                     <div className='col-span-1 flex justify-center align-center '>
                     <div>
                     <div className='flex justify-center align-center rounded-full '><Image src={icon1}/></div>
-                    <div className='text-center px-2 lg:px-20'>
+                    <div className='text-center px-5 pt-5 lg:px-20'>
                     <h1 className='text-md'>Succeed with us</h1>
                     <p className='text-sm'>Whether you're a crypto exchange, NFT project, or other crypto- or NFT-based project, we have the expertise you need to succeed.</p>
                     </div>

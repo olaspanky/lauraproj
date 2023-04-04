@@ -19,11 +19,11 @@ const Services2 = () => {
                 <h1 className='p-2'>Marketing</h1>
                 <p className=' w-[90%] font-[7px] p-2 text-gray-400'>At Space3kit, we know that effective marketing is essential to building a successful business in the finance and crypto verticals. That's why we offer a full range of marketing services designed to help you reach your target audience, build brand awareness, and drive conversions.</p>
 
-                <div className='p-2 lg:pl-10 text-gray-400'>
-                <ul className='list-disk md:pl-10'>
-                <li className='pt-4 flex gap-3'> <Image src={check}/> Develop comprehensive marketing strategies</li>
-                <li className='pt-4 flex gap-3'> <Image src={check}/>Managing your social media accounts</li>
-                <li className='pt-4 flex gap-3'> <Image src={check}/>Crafting engaging email marketing campaigns</li>
+                <div className='p-2 lg:pl-3 pl-1 text-gray-400'>
+                <ul className='list-disk md:pl-3'>
+                <li className='pt-4 flex gap-3'> <Image src={check} className="w-[1em] object-contain"/> Develop comprehensive marketing strategies</li>
+                <li className='pt-4 flex gap-3'> <Image src={check} className="w-[1em] object-contain"/>Managing your social media accounts</li>
+                <li className='pt-4 flex gap-3'> <Image src={check} className="w-[1em] object-contain"/>Crafting engaging email marketing campaigns</li>
                 </ul>
                 </div>
                 </div>
@@ -45,16 +45,16 @@ const Services2 = () => {
                 <h1 className='p-2'>Marketing</h1>
                 <p className=' w-[90%] font-[7px] p-2 text-gray-400'>At Space3kit, we know that effective marketing is essential to building a successful business in the finance and crypto verticals. That's why we offer a full range of marketing services designed to help you reach your target audience, build brand awareness, and drive conversions.</p>
 
-                <div className='p-2 lg:pl-10 text-gray-400'>
-                <ul className='list-disk md:pl-10'>
-                <li className='pt-4 flex gap-3'> <Image src={check}/> Develop comprehensive marketing strategies</li>
-                <li className='pt-4 flex gap-3'> <Image src={check}/> Managing your social media accounts</li>
-                <li className='pt-4 flex gap-3'> <Image src={check}/> Crafting engaging email marketing campaigns</li>
+                <div className='p-2 lg:pl-3 pl-1 text-gray-400'>
+                <ul className='list-disk md:pl-3'>
+                <li className='pt-4 flex gap-3'> <Image src={check} className="w-[1em] object-contain"/> Develop comprehensive marketing strategies</li>
+                <li className='pt-4 flex gap-3'> <Image src={check} className="w-[1em] object-contain"/> Managing your social media accounts</li>
+                <li className='pt-4 flex gap-3'> <Image src={check} className="w-[1em] object-contain"/> Crafting engaging email marketing campaigns</li>
                 </ul>
                 </div>
                 </div>
               
-                </div>
+                </div> className="w-[1em] object-contain"
 
 
 
@@ -66,11 +66,11 @@ const Services2 = () => {
                 <h1 className='p-2'>Marketing</h1>
                 <p className=' w-[90%] font-[7px] p-2 text-gray-400'>At Space3kit, we know that effective marketing is essential to building a successful business in the finance and crypto verticals. That's why we offer a full range of marketing services designed to help you reach your target audience, build brand awareness, and drive conversions.</p>
 
-                <div className='p-2 lg:pl-10 text-gray-400'>
-                <ul className='list-disk md:pl-10'>
-                <li className='pt-4 flex gap-3'> <Image src={check}/>Develop comprehensive marketing strategies</li>
-                <li className='pt-4 flex gap-3'> <Image src={check}/>Managing your social media accounts</li>
-                <li className='pt-4 flex gap-3'> <Image src={check}/>Crafting engaging email marketing campaigns</li>
+                <div className='p-2 lg:pl-3 pl-1 text-gray-400'>
+                <ul className='list-disk md:pl-3'>
+                <li className='pt-4 flex gap-3'> <Image src={check} className="w-[1em] object-contain"/>Develop comprehensive marketing strategies</li>
+                <li className='pt-4 flex gap-3'> <Image src={check} className="w-[1em] object-contain"/>Managing your social media accounts</li>
+                <li className='pt-4 flex gap-3'> <Image src={check} className="w-[1em] object-contain"/>Crafting engaging email marketing campaigns</li>
                 </ul>
                 </div>
                 </div>
