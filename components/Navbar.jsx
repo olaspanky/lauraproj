@@ -8,7 +8,7 @@ const Navbar = () => {
 
   return (
     <div>
-    <nav className='flex justify-between'>
+    <nav className='flex justify-between pt-2 lg:pt-8'>
       <div className=''>
       <Image src={logo} className=""/>
       </div>
